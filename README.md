@@ -12,6 +12,7 @@ Located in [`feature_session_10/codingproblems`](feature_session_10/codingproble
 | 3. Most Popular Canteen Order | Hash map | O(n) | O(k) |
 | 4. Hot Weather Alert Windows | Sliding window | O(n) | O(1) |
 | 5. Ticket Price Slot Finder | Binary search | O(log n) | O(1) |
+| 6. Priority Token Insertion (Java) | Singly linked list (`addFirst`, `addLast`, `insertAt`) | O(1) / O(n) / O(n) | O(1) |
 
 See [`feature_session_10/README.md`](feature_session_10/README.md) for details.
 
