@@ -26,6 +26,6 @@ See [`feature_session_9/README.md`](feature_session_9/README.md) for details and
 
 ## Running the Python solutions
 ```bash
-cd feature_session_9/coding
+cd feature_session_9/codingproblems
 for f in problem*.py; do python3 "$f"; done
 ```

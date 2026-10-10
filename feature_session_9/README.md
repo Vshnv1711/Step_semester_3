@@ -6,7 +6,7 @@ Solutions to the Category B practice sheet: coding problems, quiz and concept qu
 ## Structure
 ```
 feature_session_9/
-├── coding/
+├── codingproblems/
 │   ├── problem1_library_catalog.py     # Binary search
 │   ├── problem2_warehouse_grid.py      # 2D grid total + first max
 │   ├── problem3_pair_sum.py            # Brute force vs hash set
@@ -30,6 +30,6 @@ feature_session_9/
 ## Run the tests
 Each file has built-in assertions (Python 3):
 ```bash
-cd feature_session_9/coding
+cd feature_session_9/codingproblems
 for f in problem*.py; do python3 "$f"; done
 ```
