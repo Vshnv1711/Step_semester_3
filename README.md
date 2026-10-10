@@ -3,11 +3,11 @@
 Practice solutions and assignments for **STEP Semester 3** (CodInClub | BridgeLabz).
 
 ## Feature Session 8 — Category B: Linked Lists
-On the `feature_session_8` branch, in [`feature_session_8/practiseproblems`](feature_session_8/practiseproblems):
+On the `feature_session_8` branch, in [`feature_session_8/practiseproblems`](feature_session_8/practiseproblems) and [`feature_session_8/assignments`](feature_session_8/assignments):
 
 | Problem | Technique | Time | Extra space |
 |---|---|---|---|
-| 1. Priority Token Insertion (Java) | Singly linked list: `addFirst` / `addLast` / `insertAt` | O(1) / O(n) / O(n) | O(1) |
+| 1. Priority Token Insertion (Java, in both folders) | Singly linked list: `addFirst` / `addLast` / `insertAt` | O(1) / O(n) / O(n) | O(1) |
 
 See [`feature_session_8/README.md`](feature_session_8/README.md) for details.
 

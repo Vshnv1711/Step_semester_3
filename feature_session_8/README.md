@@ -5,8 +5,10 @@
 ```
 feature_session_8/
 ├── README.md
-└── practiseproblems/
-    └── PriorityTokenInsertion.java   # Problem 1: addFirst / addLast / insertAt (Java)
+├── practiseproblems/
+│   └── PriorityTokenInsertion.java   # Problem 1: addFirst / addLast / insertAt (Java)
+└── assignments/
+    └── PriorityTokenInsertion.java   # Coding assignment: Problem 1 (same solution, assignment folder)
 ```
 
 ## Problem 1: Priority Token Insertion
@@ -26,7 +28,7 @@ Example: `101 -> 102 -> 103` after `addFirst(100)`, `addLast(104)`, `insertAt(2,
 ## Run the tests
 Built-in assertions (JDK 11+):
 ```bash
-cd feature_session_8/practiseproblems
+cd feature_session_8/practiseproblems   # or: cd feature_session_8/assignments
 javac PriorityTokenInsertion.java && java PriorityTokenInsertion
 # or run the source file directly
 java PriorityTokenInsertion.java
